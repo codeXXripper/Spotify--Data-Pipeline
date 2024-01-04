@@ -41,7 +41,7 @@
 
 * Python / Notebook / Flask
 * MongoDB
-* Spotify APY
+* Spotify API
 
 
 <!-- GETTING STARTED -->
